@@ -1,0 +1,5 @@
+chmod go-x a.out
+r-read
+w-write
+x-execution
+
